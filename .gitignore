@@ -1,0 +1,18 @@
+# Segredos locais
+.env
+.env.*
+!.env.example
+
+# Supabase CLI
+supabase/.temp
+supabase/.branches
+
+node_modules/
+.expo/
+dist/
+coverage/
+android/
+ios/
+expo-env.d.ts
+*.jks
+*.keystore
